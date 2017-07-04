@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1490190635 source:c:\users\stefania\desktop\facultate\facultate 3\sem 2\adp\matrixopenmp\main.c
+	<omp.h>
+
+1490199437 source:c:\users\stefania\desktop\facultate\facultate 3\sem 2\adp\matrixopenmp\openmp.c
+	<omp.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
