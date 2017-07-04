@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490194844 source:c:\users\stefania\desktop\facultate\facultate 3\sem 2\adp\matrix\main.c
+	<stdio.h>
+	<pthread.h>
+
